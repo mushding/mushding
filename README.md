@@ -62,7 +62,7 @@
 </p>
 
 <p align="center">
-<a href="https://mushding.space"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google&logoColor=white"/></a>
-<a href="mailto:ajy1005464@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/mushding"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://mushding.space"><img src="https://img.shields.io/badge/mushding.space-3423A6?style=flat&logo=Google&logoColor=white"/></a>
+<a href="mailto:ajy1005464@gmail.com"><img src="https://img.shields.io/badge/mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/mushding"><img src="https://img.shields.io/badge/mushding-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
