@@ -54,6 +54,10 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 ---
-![mushding's github stats](https://github-readme-stats.vercel.app/api?username=mushding&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mushding&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mushding&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mushding&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats"/>
+</a>
+</p>
 
